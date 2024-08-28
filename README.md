@@ -1,2 +1,1 @@
-# JavaScript-Games
-JavaScript HTML CSS
+JavaScript HTML CSS Games
